@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251479531704",
+    "project_id": "vocalprojectmoblie",
+    "storage_bucket": "vocalprojectmoblie.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251479531704:android:bbc70962f4d7c00781d44d",
+        "android_client_info": {
+          "package_name": "com.example.moblie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArXtO4lJ-d-mMVJr0KM16Y3X6_s_YSXO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
